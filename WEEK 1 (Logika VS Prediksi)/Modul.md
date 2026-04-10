@@ -1,5 +1,7 @@
 # Week 1: Mengubah Cara Berpikir (Logika vs. Prediksi)
 
+hkhdhdjqwjdjkqwdhkqwdhqljqwjddqwqw
+
 ## 🧠 Inti Konsep
 AI menyelesaikan ketidakpastian (*ambiguity*) menggunakan **Probabilitas**.
 
